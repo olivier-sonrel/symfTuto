@@ -1,3 +1,5 @@
+.env
+
 manifest/cache/
 manifest/logs/
 manifest/tmp/
